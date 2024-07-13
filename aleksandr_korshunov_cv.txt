@@ -1,0 +1,42 @@
+ALEKSANDR KORSHUNOV
+
+Phone:         +972-50-48-50-222
+Email:         aleks.corshunov@gmail.com
+Website:       corshunov.com
+LinkedIn:      linkedin.com/in/corshunov
+GitHub:        github.com/corshunov
+
+WORK EXPERIENCE
+- Ayalon Highways, Software Engineer (Israel)                  2017 - present
+* developing and maintaining Tel-Aviv metropolitan
+  model (EMME, Python)
+* automating GIS data processing for transport
+  models input/output (Python)
+* developed national Park&Ride model (TransCAD, GISDK)
+
+- NAPDS, Transportation Engineer (Russia)                         2013 - 2017
+
+EDUCATION
+- DevOps course by OpsSchool (Israel)                             2021 - 2022
+- YDATA program by Yandex School of Data Science (Israel)         2019 - 2020
+- MSc. Information Systems and Technologies (Russia)              2015 - 2017
+- BSc. Civil Engineering (Russia)                                 2011 - 2015
+
+SKILLS
+- languages: Python, GISDK, NSIS
+- DevOps: Linux, Bash, Git, Docker, K8s, AWS, CI/CD,
+  Jenkins, Terraform, Consul
+- data science: NumPy, pandas, Matplotlib, PySpark
+- transport software: EMME, DYNAMEQ, TransCAD, SUMO, Aimsun
+
+VOLUNTEERING AND EXTRACURRICULAR ACTIVITIES
+- community member at Tel-Aviv hackerspace                     2022 - present
+- code reviewer at OpsSchool (DevOps school)                   2022 - present
+- madrich at Jewish Agency for Israel                                    2017
+- volunteer at Olympic Games (2014), Formula 1 (2015),
+  Universiade (2013, 2017), and other events
+
+LANGUAGES
+- English:       advanced
+- Hebrew:        basic
+- Russian:       native
